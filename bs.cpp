@@ -6,7 +6,7 @@ bool check(int vl, x)
 void solve()
 {
     int arr[] = {...};
-    int x, l=arr[0], r=arr[n];
+    int x, l=arr[0], r=arr[n-1];
     
     while (l < r)
     {
