@@ -33,3 +33,9 @@ void update(int node, int tl, int tr, int k, int vl)
     }
 }
     
+int main() {
+    int arr[] = {...};
+    int st[arr.size()*4] = {0};
+    build(1);
+    query(1, l, r, 1, n);
+}
