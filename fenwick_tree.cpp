@@ -25,7 +25,7 @@ int query(int i)
 int main()
 {
     int n, tmp; cin >> n;
-    ft.aissng(n+1, 0);
+    ft.assign(n+1, 0);
     
     for (int i=0; i<n; i++)
     {
